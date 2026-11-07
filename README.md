@@ -1,1 +1,1 @@
-# K5-L3-DAY01-ChuThiAnh-2A202603360-LLMFoundation-Lab1
+# K5-L3A-DAY01-ChuThiAnh-2A202603360-LLMFoundation-Lab1
